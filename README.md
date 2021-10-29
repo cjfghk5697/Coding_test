@@ -1,5 +1,4 @@
 #  Coding_test
-코딩 테스트 문제들 모음집입니다.
-
-# 개요
-지금부터 푼 코딩테스트 자료들이다. 문제들은 난이도에 따라 정리했다. 나중에는 알고리즘에 따라 나눌것이다. 
+The collection of coding test 
+# Summary
+X
